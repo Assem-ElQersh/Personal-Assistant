@@ -1,0 +1,17 @@
+SpeechRecognition==3.8.1
+pyttsx3==2.90
+playsound==1.2.2
+Pillow==9.0.1
+pyscreenshot==3.0
+pynput==1.7.6
+psutil==5.9.0
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+wikipedia==1.4.0
+beautifulsoup4==4.11.1
+youtube-search-python==1.6.5
+wmi==1.5.1
+geopy==2.2.0
+googletrans==3.1.0a0
+python-dotenv==0.20.0
+requests==2.27.1
